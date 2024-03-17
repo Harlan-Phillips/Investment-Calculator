@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Investment Calculator</string>
+    <string name="investment_calculator">Mutual Fund Investment Calculator</string>
+    <string name="target">Target</string>
+</resources>
